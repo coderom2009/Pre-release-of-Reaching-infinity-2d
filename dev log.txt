@@ -1,0 +1,3 @@
+welcome window tour is done, buttons done, back-forward also done.
+
+next play window tour.
